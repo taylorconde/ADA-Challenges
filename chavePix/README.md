@@ -1,9 +1,8 @@
-Perfeito! Aqui está a versão atualizada do README.md incluindo uma nota de que outras funcionalidades serão implementadas futuramente:
-
 ```markdown
 # ChavePix
 
-O **ChavePix** é um projeto em Java para gerenciamento de chaves PIX, com validação de dados e persistência em arquivo local. Suporta CPF, CNPJ, telefone e e-mail.
+O **ChavePix** é um projeto em Java para gerenciamento de chaves PIX, com validação de dados e persistência em arquivo local.
+Suporta CPF, CNPJ, telefone e e-mail.
 
 ---
 
@@ -125,3 +124,4 @@ java -cp out br.com.chavePix.Main CPF 50340304011 022
 ## Autor
 
 * John Taylor
+
