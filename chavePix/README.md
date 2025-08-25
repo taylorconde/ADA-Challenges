@@ -15,7 +15,7 @@ Suporta CPF, CNPJ, telefone e e-mail.
   - Telefone (somente números móveis com DDD válido)
   - E-mail
 - Persistência das chaves no arquivo `data/.chaves` no formato:
-  TIPO\:VALOR\:CODIGO\_AGENCIA
+  TIPO:VALOR:CODIGO_AGENCIA
 ```
 ```
 
@@ -23,7 +23,7 @@ Exemplo:
 
 CPF:50340304011:022
 TELEFONE:85984331133:002
-EMAIL\:teste\@email.com:001
+EMAIL:teste@email.com:001
 ```
 ```
 
@@ -124,4 +124,3 @@ java -cp out br.com.chavePix.Main CPF 50340304011 022
 ## Autor
 
 * John Taylor
-
