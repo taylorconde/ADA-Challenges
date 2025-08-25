@@ -1,0 +1,20 @@
+# Ignorar arquivos de projetos antigos
+desafioPasswordManager/
+desafiocadastropix/
+
+# Ignorar build e IDE
+chavePix/out/
+chavePix/.idea/
+
+# Ignorar arquivos sensíveis
+chavePix/data/.chaves
+
+# Ignorar classes compiladas
+*.class
+*.iml
+*.swp
+
+# IntelliJ IDEA
+.idea/
+out/
+
